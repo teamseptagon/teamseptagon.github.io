@@ -109,8 +109,8 @@ hr.small {
     transition: transform 0.3s;
   }
   .navbar-custom.is-fixed .navbar-brand {
-    color: #333333;
-	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
   .navbar-custom.is-fixed .navbar-brand:focus {
@@ -118,7 +118,7 @@ hr.small {
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   }
   .navbar-custom.is-fixed .nav li a {
-    color: #333333;
+    color: white;
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
